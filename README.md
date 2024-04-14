@@ -17,9 +17,9 @@
 [<img src=https://user-images.githubusercontent.com/125588671/270273370-5b4f24c6-187b-44eb-bd6e-fd035d819f05.svg height="60">](https://www.postgresql.org/)
 [<img src=https://user-images.githubusercontent.com/125588671/270273337-e7e19966-0ab7-48af-853a-eaa3a1025c85.svg height="60">](https://www.atlassian.com/ru/software/confluence)
 [<img src=https://user-images.githubusercontent.com/125588671/270273360-c7a2539e-3458-48c8-8830-93c87150438e.svg height="60">](https://www.atlassian.com/ru/software/jira)
-[<img src=https://user-images.githubusercontent.com/125588671/270274247-ae22508b-4487-4e4c-b837-f9224091edd9.png height="60">](https://qase.io/)
-[<img src=https://user-images.githubusercontent.com/125588671/270273326-1bea1010-d113-46fb-84f6-9899c9bda888.svg height="60">](https://miro.com/app/dashboard/)
-<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/charles-proxy-icon.png" width="64" height="64">
+<img src=https://user-images.githubusercontent.com/125588671/270274247-ae22508b-4487-4e4c-b837-f9224091edd9.png height="60">(https://qase.io/)
+<img src=https://user-images.githubusercontent.com/125588671/270273326-1bea1010-d113-46fb-84f6-9899c9bda888.svg height="60">(https://miro.com/app/dashboard/)
+
 
 ### You can reach me through:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Yakorchak)
