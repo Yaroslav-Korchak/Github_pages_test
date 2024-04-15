@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&duration=4000&pause=800&center=true&multiline=true&random=false&width=435&lines=Hi+there!+I%60m+Yar+%3A\)/n Welcome+to+my+Github!)](https://git.io/typing-svg)
+<center>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&duration=4000&pause=800&center=true&multiline=true&random=false&width=435&lines=Hi+there!+I%60m+Yar+%3A\)<br>Welcome+to+my+Github!)](https://git.io/typing-svg)
+</center>
 
 ### About me: 
 #### I am a manual QA-tester. In order to be up-to-date I continuously study new technologies, methods and tools related to testing. I am progressing as a QA automation engineer, continue to study python, backend and frontend development.
