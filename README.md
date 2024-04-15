@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Jersey+15&lines=Hi+there!+I%60m+Yar+%3A%29%0AWelcome+to+my+Github!&center=true&multiline=true&width=435&height=60">
   </a>
 </p>
+
 ### About me: 
 #### I am a manual QA-tester. In order to be up-to-date I continuously study new technologies, methods and tools related to testing. I am progressing as a QA automation engineer, continue to study python, backend and frontend development.
 
